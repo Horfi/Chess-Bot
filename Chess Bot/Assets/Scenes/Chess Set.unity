@@ -842,7 +842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9be734c3d5812e34caf6d8938084eeb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tileMaterial: {fileID: 0}
+  tileMaterial: {fileID: 2100000, guid: 39ec6c5e52717654bb3d613d19e9f67a, type: 2}
   tileSize: 1.09
   yOffset: 0.02
   boardCenter: {x: 0, y: 0, z: 0}
